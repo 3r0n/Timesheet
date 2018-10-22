@@ -1,0 +1,1 @@
+{"version":3,"sources":["Layout.css"],"names":[],"mappings":"AAAA,YACI,qBAAwB","file":"static/css/main.2bb3ef0e.css","sourcesContent":["table, th, td {\r\n    border: 1px solid black;\r\n    \r\n}\n\n\n// WEBPACK FOOTER //\n// ./src/Layout.css"],"sourceRoot":""}
